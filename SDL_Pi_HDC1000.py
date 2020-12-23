@@ -1,4 +1,3 @@
-
 #
 # SDL_Pi_HDC1000
 # Raspberry Pi Driver for the SwitchDoc Labs HDC1000 Breakout Board
